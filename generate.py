@@ -119,8 +119,8 @@ class SiteConfig:
   cta_href: str = "/contact/"
 
   # Pricing base
-  cost_low: int = 80
-  cost_high: int = 250
+  cost_low: int = 350
+  cost_high: int = 8500
 
   # Core titles/subs
   h1_title: str = "Emergency Maintenance/24 Hour Maintenance Services"
