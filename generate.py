@@ -108,7 +108,7 @@ class SiteConfig:
 
   # Build / assets
   output_dir: Path = Path("public")
-  image_filename: str = "man-removing-antenna-from-roof.webp"  # sits next to generate.py
+  image_filename: str = "man-performing-emergency-maintenance.webp"  # sits next to generate.py
 
   # Identity
   base_name: str = "Emergency Maintenance"
@@ -141,19 +141,20 @@ class SiteConfig:
     "What Is Considered Emergency Maintenance in an Apartment?",
     "What Are Common Emergency Maintenance Examples?",
     "Is No Hot Water a Maintenance Emergency?",
-    "Is a Clogged or Broken Toilet a Maintenance Emergency?",
+    "Is No AC Considered a Maintenance Emergency?",
     "Is an Emergency Water Leak Repair Considered Emergency Maintenance?",
     "What Should You Do If Apartment Emergency Maintenance Is Not Answering?",
   )
 
   main_p: tuple[str, ...] = (
-    "Emergency maintenance in an apartment usually means a problem that risks immediate damage, unsafe living conditions, or loss of essential services. Common examples include major water leaks, sewage backups, no heat in cold conditions, electrical hazards, and situations that could cause property damage quickly.",
-    "Emergency maintenance examples typically include active water leaks, overflowing toilets, sewage smells or backups, sparking outlets, broken exterior locks, and loss of heat or hot water depending on conditions. If the issue can cause rapid damage or creates a safety risk, it’s usually treated as an emergency request.",
-    "No hot water can be a maintenance emergency when it affects basic hygiene or is widespread, especially in multi-unit buildings or when the issue is tied to a major water heater failure. If there’s a leak, gas smell, or electrical issue involved, it should be treated as urgent and handled immediately.",
-    "A clogged or broken toilet can be a maintenance emergency when it’s the only toilet in the unit, is overflowing, or is causing water damage. A broken toilet that won’t stop running, won’t flush, or is leaking at the base can also escalate quickly and needs fast attention.",
-    "Yes, emergency water leak repair is commonly considered emergency maintenance because leaks can cause rapid structural damage, mold risk, and electrical hazards. Active leaks from ceilings, walls, supply lines, or toilets typically require immediate response to stop damage before repairs.",
-    "If apartment emergency maintenance is not answering, the best next step is to document the issue, notify the property manager through all available channels, and take reasonable steps to limit damage (like shutting off water if safe). If there’s an immediate safety hazard—such as active flooding, sparks, or a gas smell—contact local emergency services or the appropriate utility provider right away."
+    "Emergency maintenance refers to urgent, unplanned repairs that must be handled immediately to prevent safety hazards, health risks, or serious property damage. These situations typically involve gas leaks, major water leaks, electrical hazards, or loss of essential services that make a unit unsafe or unlivable.",
+    "Common emergency maintenance situations include active flooding, sewage backups, gas odors, sparking electrical outlets, total power loss, and heating failures during freezing temperatures. If the issue threatens safety or can cause rapid damage, it’s usually considered an emergency.",
+    "No hot water can be an emergency when it affects basic sanitation, is building-wide, or is caused by a serious system failure. In colder climates or when paired with leaks or electrical issues, loss of hot water may require immediate response.",
+    "No air conditioning can be considered a maintenance emergency when indoor temperatures create health or safety risks, especially during extreme heat. In hot climates or heat wave conditions, loss of AC may require immediate attention, while mild weather situations may be handled through standard maintenance scheduling.",
+    "Yes, emergency water leak repair is a core part of emergency maintenance because uncontrolled leaks can quickly damage walls, floors, and electrical systems. Active leaks from ceilings, pipes, or fixtures should be reported immediately using emergency maintenance channels.",
+    "If apartment emergency maintenance is not answering, tenants should document the issue and contact property management through all designated emergency methods. For immediate safety threats such as gas smells, flooding, or electrical danger, contacting emergency services or the utility provider may be necessary."
   )
+
 
   # LOCAL COST
   location_cost_h2: str = "How Much Does Emergency Maintenance Cost{loc}?"
@@ -190,6 +191,14 @@ class SiteConfig:
   state_description: str = (
     "Emergency maintenance services{loc}. Browse cities we serve, view typical pricing ranges, and request urgent repair help."
   )
+
+  networx_embed = """
+  <div id="networx_form_container" style="margin:0px;padding:0px;">
+      <div id = "nx_form" style = "width: 242px; height: 375px;">
+          <script type="text/javascript" src = "https://api.networx.com/iframe.php?aff_id=73601bc3bd5a961a61a973e92e29f169&aff_to_form_id=8030"></script>
+      </div>
+  </div>
+  """
 
 
   cost_body = """
@@ -1258,19 +1267,11 @@ def contact_page_html(mode: Mod, canonical: str = "/contact/") -> str:
     for t in why_bullets
   )
 
-  networx_embed = """
-<div id="networx_form_container" style="margin:0px;padding:0px;">
-    <div id = "nx_form" style = "width: 242px; height: 375px;">
-        <script type="text/javascript" src = "https://api.networx.com/iframe.php?aff_id=73601bc3bd5a961a61a973e92e29f169&aff_to_form_id=8030"></script>
-    </div>
-</div>
-""".strip()
-
   inner = f"""
 <div class="form-grid">
   <div class="embed-card">
     <div class="nx-center">
-      {networx_embed}
+      {CONFIG.networx_embed}
     </div>
   </div>
 

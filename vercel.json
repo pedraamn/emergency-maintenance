@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "(?<city>(?!www$)[a-z0-9-]+)\\.emergencymaintenanceexperts\\.com"
+        }
+      ],
+      "dest": "/$city/$1"
+    }
+  ]
+}
