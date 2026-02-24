@@ -1211,7 +1211,7 @@ def homepage_html(*, mode: Mode) -> str:
   )
 
   # Only show city index when NOT in subdomain mode
-  if mode != "subdomain":
+  if mode != "subdomainz":
     links = "\n".join(
       f'<li><a href="{esc(href_city(mode, c, s))}">{esc(c)}, {esc(s)}</a></li>'
       for c, s, _ in CITIES

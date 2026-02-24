@@ -1,6 +1,6 @@
 {
   "name": "emergency-maintenance",
-  "compatibility_date": "2026-02-18",
+  "compatibility_date": "2026-02-24",
   "assets": {
     "directory": "./public"
   }
