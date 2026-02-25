@@ -264,7 +264,7 @@ MODE_FEATURES: dict[str, dict[str, bool]] = {
   "regular": {"cost": True, "howto": True, "contact": True},
   "cost": {"cost": True, "howto": False, "contact": True},
   "state": {"cost": False, "howto": False, "contact": True},
-  "subdomain": {"cost": True, "howto": False, "contact": True},
+  "subdomain": {"cost": False, "howto": False, "contact": True},
   "regular_city_only": {"cost": False, "howto": False, "contact": True},
 }
 
@@ -1275,12 +1275,12 @@ def build_subdomain(*, out: Path) -> None:
     )
     city_urls.append(canonical)
 
-    cost_canon = canonical + f"{cost_slug()}/"
-    write_text(
-      out / slug / cost_slug() / "index.html",
-      cost_city_page_html(mode=mode, city=city, st=st, col=col, canonical=cost_canon)
-    )
-    city_urls.append(cost_canon)
+    # cost_canon = canonical + f"{cost_slug()}/"
+    # write_text(
+    #   out / slug / cost_slug() / "index.html",
+    #   cost_city_page_html(mode=mode, city=city, st=st, col=col, canonical=cost_canon)
+    # )
+    # city_urls.append(cost_canon)
 
     contact_canon = canonical + "contact/"
     # City contact page (served at https://slug.domain/contact/ via rewrite)
