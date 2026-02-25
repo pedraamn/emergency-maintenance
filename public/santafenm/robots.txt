@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santafenm.emergencymaintenanceexperts.com/sitemap.xml

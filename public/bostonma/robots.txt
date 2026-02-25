@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bostonma.emergencymaintenanceexperts.com/sitemap.xml

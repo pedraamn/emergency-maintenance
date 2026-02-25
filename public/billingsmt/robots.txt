@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://billingsmt.emergencymaintenanceexperts.com/sitemap.xml

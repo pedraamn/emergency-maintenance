@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://schenectadyny.emergencymaintenanceexperts.com/sitemap.xml

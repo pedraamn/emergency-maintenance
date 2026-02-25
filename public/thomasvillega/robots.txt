@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thomasvillega.emergencymaintenanceexperts.com/sitemap.xml

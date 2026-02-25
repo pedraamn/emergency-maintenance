@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salinasca.emergencymaintenanceexperts.com/sitemap.xml

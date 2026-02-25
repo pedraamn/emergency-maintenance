@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://troyny.emergencymaintenanceexperts.com/sitemap.xml

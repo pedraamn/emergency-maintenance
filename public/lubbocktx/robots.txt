@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lubbocktx.emergencymaintenanceexperts.com/sitemap.xml

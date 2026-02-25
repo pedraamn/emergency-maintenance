@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kennewickwa.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://twinfallsid.emergencymaintenanceexperts.com/sitemap.xml

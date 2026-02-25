@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klamathfallsor.emergencymaintenanceexperts.com/sitemap.xml

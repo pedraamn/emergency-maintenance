@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bozemanmt.emergencymaintenanceexperts.com/sitemap.xml

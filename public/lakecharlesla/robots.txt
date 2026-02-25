@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakecharlesla.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hazletonpa.emergencymaintenanceexperts.com/sitemap.xml

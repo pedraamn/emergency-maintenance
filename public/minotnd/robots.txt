@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minotnd.emergencymaintenanceexperts.com/sitemap.xml

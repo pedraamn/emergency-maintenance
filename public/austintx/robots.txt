@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://austintx.emergencymaintenanceexperts.com/sitemap.xml

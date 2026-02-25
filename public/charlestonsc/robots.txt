@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlestonsc.emergencymaintenanceexperts.com/sitemap.xml

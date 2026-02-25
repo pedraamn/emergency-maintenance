@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mitchellsd.emergencymaintenanceexperts.com/sitemap.xml

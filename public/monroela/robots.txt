@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monroela.emergencymaintenanceexperts.com/sitemap.xml

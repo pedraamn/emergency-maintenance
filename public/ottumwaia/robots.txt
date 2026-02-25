@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ottumwaia.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spokanewa.emergencymaintenanceexperts.com/sitemap.xml

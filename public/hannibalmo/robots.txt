@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hannibalmo.emergencymaintenanceexperts.com/sitemap.xml

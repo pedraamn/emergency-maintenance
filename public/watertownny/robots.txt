@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://watertownny.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://templetx.emergencymaintenanceexperts.com/sitemap.xml

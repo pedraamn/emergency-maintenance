@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eldoradoar.emergencymaintenanceexperts.com/sitemap.xml

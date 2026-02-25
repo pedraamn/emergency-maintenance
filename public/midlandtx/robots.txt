@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midlandtx.emergencymaintenanceexperts.com/sitemap.xml

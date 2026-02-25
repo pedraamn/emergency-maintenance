@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bloomingtonil.emergencymaintenanceexperts.com/sitemap.xml

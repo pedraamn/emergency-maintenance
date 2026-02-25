@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weslacotx.emergencymaintenanceexperts.com/sitemap.xml

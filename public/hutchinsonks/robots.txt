@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hutchinsonks.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nashvilletn.emergencymaintenanceexperts.com/sitemap.xml

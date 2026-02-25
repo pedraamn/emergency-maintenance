@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://austinmn.emergencymaintenanceexperts.com/sitemap.xml

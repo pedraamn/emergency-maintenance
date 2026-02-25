@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fargond.emergencymaintenanceexperts.com/sitemap.xml

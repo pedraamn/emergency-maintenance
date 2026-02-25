@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fayettevillear.emergencymaintenanceexperts.com/sitemap.xml

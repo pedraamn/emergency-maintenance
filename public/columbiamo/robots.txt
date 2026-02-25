@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbiamo.emergencymaintenanceexperts.com/sitemap.xml

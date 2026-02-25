@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westpointms.emergencymaintenanceexperts.com/sitemap.xml

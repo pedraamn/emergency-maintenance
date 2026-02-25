@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buttemt.emergencymaintenanceexperts.com/sitemap.xml

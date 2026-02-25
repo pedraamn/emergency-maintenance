@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elkhartin.emergencymaintenanceexperts.com/sitemap.xml

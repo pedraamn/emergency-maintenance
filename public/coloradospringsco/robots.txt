@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coloradospringsco.emergencymaintenanceexperts.com/sitemap.xml

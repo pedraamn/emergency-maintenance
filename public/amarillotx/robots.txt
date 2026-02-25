@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amarillotx.emergencymaintenanceexperts.com/sitemap.xml

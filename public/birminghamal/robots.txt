@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://birminghamal.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlestonwv.emergencymaintenanceexperts.com/sitemap.xml

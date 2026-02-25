@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richlandwa.emergencymaintenanceexperts.com/sitemap.xml

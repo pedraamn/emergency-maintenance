@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greenwoodms.emergencymaintenanceexperts.com/sitemap.xml

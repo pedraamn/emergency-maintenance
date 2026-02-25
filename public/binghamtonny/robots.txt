@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://binghamtonny.emergencymaintenanceexperts.com/sitemap.xml

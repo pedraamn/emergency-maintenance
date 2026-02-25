@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helenamt.emergencymaintenanceexperts.com/sitemap.xml

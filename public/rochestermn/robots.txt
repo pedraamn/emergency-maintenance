@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rochestermn.emergencymaintenanceexperts.com/sitemap.xml

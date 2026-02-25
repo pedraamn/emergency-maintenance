@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chicoca.emergencymaintenanceexperts.com/sitemap.xml

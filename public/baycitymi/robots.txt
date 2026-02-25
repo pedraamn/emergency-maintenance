@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baycitymi.emergencymaintenanceexperts.com/sitemap.xml

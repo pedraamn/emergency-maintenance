@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tacomawa.emergencymaintenanceexperts.com/sitemap.xml

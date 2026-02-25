@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://decatural.emergencymaintenanceexperts.com/sitemap.xml

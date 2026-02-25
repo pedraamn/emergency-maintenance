@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davenportia.emergencymaintenanceexperts.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bakersfieldca.emergencymaintenanceexperts.com/sitemap.xml

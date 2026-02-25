@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://idahofallsid.emergencymaintenanceexperts.com/sitemap.xml

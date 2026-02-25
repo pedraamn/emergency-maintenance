@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scrantonpa.emergencymaintenanceexperts.com/sitemap.xml

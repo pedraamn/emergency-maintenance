@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reddingca.emergencymaintenanceexperts.com/sitemap.xml

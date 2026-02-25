@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yorkpa.emergencymaintenanceexperts.com/sitemap.xml

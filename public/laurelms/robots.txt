@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laurelms.emergencymaintenanceexperts.com/sitemap.xml

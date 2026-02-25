@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santabarbaraca.emergencymaintenanceexperts.com/sitemap.xml
